@@ -6,5 +6,8 @@ The goal of this project was create an real-time anomaly detection in surveillan
 - [Feng Zheng](https://github.com/FengZheng99)
 - [Bao Ngo](https://github.com/Bao-Thien-Ngo)
 
+## Project Overview
+[Project Overview](https://youtu.be/NfLOfrISgSA)
+
 ## Data Source
 [UCF Crime Dataset](https://www.kaggle.com/datasets/odins0n/ucf-crime-dataset)
