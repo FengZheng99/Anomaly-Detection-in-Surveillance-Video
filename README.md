@@ -36,3 +36,5 @@ After extracting I3D features for video segments, we train a fully connected ne
 Following previous works on anomaly detection, we use the receiver operating characteristic (ROC) curve and the corresponding area under the curve (AUC) to evaluate the performance of our method.  
 Our AUC is 76.23 which is higher than the AUC in the paper conducted at UCF (75.41.)
 
+### Acknowledgment
+The code was referencing to [Real world Anomaly Detection in Surveillance Videos : Pytorch RE-Implementation](https://github.com/seominseok0429/Real-world-Anomaly-Detection-in-Surveillance-Videos-pytorch#reslut)
